@@ -9,8 +9,8 @@ import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
 import javax.imageio.ImageIO;
-import objectifcheeze.tools.Defines;
-import objectifcheeze.tools.InputListener;
+import operationcheese.tools.Defines;
+import operationcheese.tools.InputListener;
 
 public class Player extends Entity {
 

@@ -1,10 +1,10 @@
-package objectifcheeze.tools;
+package operationcheese.tools;
 
 public class Defines {
     
     public static int SCREEN_WIDTH = 800;
     public static int SCREEN_HEIGHT = 600;
-    public static String VERSION = "0.1";
+    public static String VERSION = "1.0";
     public static boolean DEBUG = false;
     public static int TILE_SIZE = 64;
     public static int PLAYER_SIZE = 64;

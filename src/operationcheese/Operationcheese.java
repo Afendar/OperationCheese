@@ -1,8 +1,8 @@
-package objectifcheeze;
+package operationcheese;
 
-import objectifcheeze.tools.TimerThread;
+import operationcheese.tools.TimerThread;
 
-public class Objectifcheeze {
+public class Operationcheese {
 
     public static void main(String[] args) {
         TimerThread timer = new TimerThread();

@@ -1,4 +1,4 @@
-package objectifcheeze;
+package operationcheese;
 
 import java.awt.Canvas;
 import java.awt.Color;
@@ -9,10 +9,10 @@ import java.awt.RenderingHints;
 import java.awt.image.BufferStrategy;
 import managers.FontManager;
 import managers.ImageManager;
-import objectifcheeze.tools.Defines;
-import objectifcheeze.tools.InputListener;
-import objectifcheeze.tools.Profiler;
-import objectifcheeze.tools.TimerThread;
+import operationcheese.tools.Defines;
+import operationcheese.tools.InputListener;
+import operationcheese.tools.Profiler;
+import operationcheese.tools.TimerThread;
 import scenes.MenuScene;
 import scenes.Scene;
 

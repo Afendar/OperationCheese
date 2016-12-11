@@ -1,10 +1,10 @@
-package objectifcheeze.tools;
+package operationcheese.tools;
 
 import java.awt.Color;
 import java.awt.FontMetrics;
 import java.awt.Graphics;
 import java.awt.geom.Rectangle2D;
-import objectifcheeze.GameEngine;
+import operationcheese.GameEngine;
 
 public class Profiler {
     

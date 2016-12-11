@@ -2,7 +2,7 @@ package environment.tiles;
 
 import java.awt.Color;
 import java.awt.Graphics;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public class Wall extends Tile {
     

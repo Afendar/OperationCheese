@@ -10,9 +10,9 @@ import java.awt.Graphics;
 import java.awt.Graphics2D;
 import java.awt.image.BufferedImage;
 import managers.ImageManager;
-import objectifcheeze.GameEngine;
-import objectifcheeze.tools.Defines;
-import objectifcheeze.tools.TimerThread;
+import operationcheese.GameEngine;
+import operationcheese.tools.Defines;
+import operationcheese.tools.TimerThread;
 
 public class GameScene extends Scene {
     

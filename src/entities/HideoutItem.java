@@ -2,7 +2,7 @@ package entities;
 
 import java.awt.Graphics;
 import java.awt.image.BufferedImage;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public class HideoutItem extends ItemEntity {
     

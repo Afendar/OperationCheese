@@ -1,4 +1,4 @@
-package objectifcheeze.tools;
+package operationcheese.tools;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
@@ -6,7 +6,7 @@ import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
 import java.awt.event.MouseMotionListener;
 import java.util.ArrayList;
-import objectifcheeze.GameEngine;
+import operationcheese.GameEngine;
 
 public class InputListener implements KeyListener, MouseMotionListener, MouseListener {
     

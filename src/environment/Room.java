@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.Random;
 import managers.ImageManager;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public class Room {
     

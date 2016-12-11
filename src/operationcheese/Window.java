@@ -1,8 +1,8 @@
-package objectifcheeze;
+package operationcheese;
 
 import java.awt.Dimension;
 import javax.swing.JFrame;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public class Window extends JFrame{
     
@@ -14,7 +14,7 @@ public class Window extends JFrame{
     
     private void init(GameEngine ge){
         
-        this.setTitle("Objectif Cheeze - v" + Defines.VERSION);
+        this.setTitle("Operation Cheese - v" + Defines.VERSION);
         this.add(ge);
         this.getContentPane().setPreferredSize(new Dimension(Defines.SCREEN_WIDTH, Defines.SCREEN_HEIGHT));
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);

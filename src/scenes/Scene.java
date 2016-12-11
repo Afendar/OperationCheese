@@ -1,7 +1,7 @@
 package scenes;
 
 import java.awt.Graphics;
-import objectifcheeze.GameEngine;
+import operationcheese.GameEngine;
 
 public abstract class Scene {
     

@@ -1,7 +1,7 @@
 package environment.tiles;
 
 import java.awt.Graphics;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public class Floor extends Tile {
     

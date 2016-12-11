@@ -1,7 +1,7 @@
 package entities;
 
 import java.awt.Graphics;
-import objectifcheeze.tools.Defines;
+import operationcheese.tools.Defines;
 
 public abstract class Entity {
     
